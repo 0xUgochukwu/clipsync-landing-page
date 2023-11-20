@@ -89,7 +89,8 @@ function App() {
               className={"bg-[#e5e5e5] text-black self-start"}
             >
               <hr className="border-black" />
-              <p className="px-4 py-2">copy the folowwing</p>
+              <p className="px-4 py-2">Ensure you have Node and NPM installed</p>
+              <p className="px-4 py-2">Run `npm i -g @0xugochukwu/clipsync`</p>
             </Dropdown>
           </div>
         </div>
