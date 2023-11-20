@@ -101,7 +101,7 @@ function App() {
             clipSync is a universal clipboard tool that enables you 
             to copy on one device and instantly paste on another, 
             regardless of the platform or operating system. 
-            <br />
+            <br /><br />
             
             It offers cross-platform compatibility and real-time synchronization. 
             Say goodbye to the hassles of email drafts and manual link sharing 
