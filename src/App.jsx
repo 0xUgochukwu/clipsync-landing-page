@@ -98,13 +98,14 @@ function App() {
         <div id="about" className={`flex flex-col gap-5`}>
           <h2 className="font-bold text-4xl text-center">About</h2>
           <p>
-            clipSync is a universal clipboard tool that enables you to copy on
-            one device and instantly paste on another, regardless of the
-            platform or operating system. It offers secure data transfer,
-            cross-platform compatibility, real-time synchronization, clipboard
-            history, and the option for cloud backup. Say goodbye to the hassles
-            of email drafts and manual file transfers - clipSync simplifies and
-            enhances your digital workflow.
+            clipSync is a universal clipboard tool that enables you 
+            to copy on one device and instantly paste on another, 
+            regardless of the platform or operating system. 
+            <br />
+            
+            It offers cross-platform compatibility and real-time synchronization. 
+            Say goodbye to the hassles of email drafts and manual link sharing 
+            – clipSync simplifies and enhances your digital workflow.
           </p>
 
           {/* ABOUT SECTION CARDS */}
